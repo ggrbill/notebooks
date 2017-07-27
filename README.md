@@ -3,7 +3,7 @@ Repository to keep my personal notebooks
 
 # Index
 
-* [NumPy-Tutorial](NumPy_Tutorial.ipynb): Tutorial of NumPy basic concepts.
+* [NumPy-Tutorial](NumPy-Tutorial.ipynb): Tutorial of NumPy basic concepts.
 
 ## How to run
 
