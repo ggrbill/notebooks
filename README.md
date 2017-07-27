@@ -18,7 +18,7 @@ $ [source] activate notebooks
 ```
 3. Open the Jupyter typing: 
 ```shell
-jupyter notebook
+$ jupyter notebook
 ```
 
 The `source` command is necessary to use only in Linux Systems
