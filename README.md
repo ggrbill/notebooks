@@ -14,7 +14,7 @@ $ conda env create
 ```
 3. Activate the environment: 
 ```shell
-$ [source] activate notebooks
+$ [source] activate notebook-env
 ```
 3. Open the Jupyter typing: 
 ```shell
