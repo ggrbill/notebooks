@@ -4,6 +4,7 @@ Repository to keep my personal notebooks
 # Index
 
 * [NumPy-Tutorial](NumPy-Tutorial.ipynb): Tutorial of NumPy basic concepts.
+* [SciPy-Tutorial](SciPy-Tutorial.ipynb): Tutorial of SciPy main algorithms.
 
 ## How to run
 
@@ -14,7 +15,7 @@ $ conda env create
 ```
 3. Activate the environment: 
 ```shell
-$ [source] activate notebook-env
+$ [source] activate notebooks-env
 ```
 3. Open the Jupyter typing: 
 ```shell
