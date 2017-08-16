@@ -5,6 +5,7 @@ Repository to keep my personal notebooks
 
 * [NumPy-Tutorial](NumPy-Tutorial.ipynb): Tutorial of NumPy basic concepts.
 * [SciPy-Tutorial](SciPy-Tutorial.ipynb): Tutorial of SciPy main algorithms.
+* [Fluent Python Book Examples](Fluent_Python_Book_Examples.ipynb): Examples presented in _Fluent Python_.
 
 ## How to run
 
